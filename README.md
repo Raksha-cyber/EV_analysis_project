@@ -5,6 +5,10 @@ This project analyzes electric vehicle (EV) datasets to uncover insights on char
 battery performance, cost efficiency, and environmental impact. Interactive Tableau dashboards are used to visualize 
 trends and support data-driven decision-making for consumers, fleet operators, and policymakers.
 
+## Data Sources
+- EV Specifications Dataset – Kaggle / EV Database
+Note: Data was cleaned, transformed, and integrated for analysis.
+
 # Tableau Dashboards
 
 -  Charging Pattern Analysis  
